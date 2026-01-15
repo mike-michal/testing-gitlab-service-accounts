@@ -1,2 +1,2 @@
 <?
-echo "hello world from mirror";
+echo "hello world from mirror2";
